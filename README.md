@@ -2,7 +2,7 @@
 
 Olá ! Bem vindo ao meu livro de receitas :wave:
 
-- [Strogonoff de frango](./receitas/strogonoff.md)
-- [Salada Simples](./receitas/salada.md)
 - [Bolo de Cenoura](./receitas/boloDeCenoura.md)
-- Pavê
+- [Pavê de chocolate](./receitas/paveDeChocolate.md)
+- [Salada Simples](./receitas/salada.md)
+- [Strogonoff de frango](./receitas/strogonoff.md)
